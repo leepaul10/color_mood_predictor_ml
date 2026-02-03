@@ -22,9 +22,11 @@ Colors profoundly impact human emotions and decision-making in branding, web des
   - **Grays / low saturation**   neutral or Medium  
 
 **Citations for labeling logic:**  
-:::Ou, L.-C., et al., 2004 : A study of color emotion and preference
-:::Elliot, A. J., & Maier, M. A., 2012 : Color Psychology: Effects of Perceivable Color on Human Behavior
-:::Hemphill, L., 1996 —: Adults’ color–emotion associations
+**:::Ou, L.-C., et al., 2004 : A study of color emotion and preference**
+
+**:::Elliot, A. J., & Maier, M. A., 2012 : Color Psychology: Effects of Perceivable Color on Human Behavior**
+
+**:::Hemphill, L., 1996 —: Adults’ color–emotion associations**
 
 ## ML Pipeline
 1. **Data Preprocessing**  
