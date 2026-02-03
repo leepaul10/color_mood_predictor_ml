@@ -16,10 +16,10 @@ Colors profoundly impact human emotions and decision-making in branding, web des
   - Target: Emotional impact class (Good, Medium, Bad)  
   
 - **Labeling Justification:** Based on peer-reviewed color psychology research:
-  - **Blue/Green hues**   calming/positive → Good  
-  - **High lightness / pastels**   generally positive or Good  
-  - **Red hues / dark colors**  arousal/negative or Bad  
-  - **Grays / low saturation**   neutral or Medium  
+  - **Blue/Green hues**   Calming/positive/Good  
+  - **High lightness / pastels**   generally positive/Good  
+  - **Red hues / dark colors**  Dark/negative/Bad  
+  - **Grays / low saturation**   Neutral/Medium  
 
 **Citations for labeling logic:**  
 **Ou, L.-C., et al., 2004 : A study of color emotion and preference**
