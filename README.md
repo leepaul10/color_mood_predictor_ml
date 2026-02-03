@@ -10,16 +10,16 @@ Colors profoundly impact human emotions and decision-making in branding, web des
 - **Type:** Synthetic, research-informed  
 - **Rows:** 5,500+  
 - **Features:**
-  - `R, G, B`: Red, Green, Blue channel values (0–255)
-  - `H, S, L`: Hue, Saturation, Lightness derived from RGB
-  - `Brightness`: Perceived brightness from RGB
-  - `Target`: Emotional impact class (`Good`, `Medium`, `Bad`)  
-- **Missing Values:** ~5% randomly introduced per RGB channel for preprocessing demonstration  
+  - R, G, B: Red, Green, Blue channel values (0–255)
+  - H, S, L: Hue, Saturation, Lightness derived from RGB
+  - Brightness: Perceived brightness from RGB
+  - Target: Emotional impact class (Good, Medium, Bad)  
+- **Missing Values:** Approximately 5% randomly introduced per RGB channel for preprocessing demonstration  
 - **Labeling Justification:** Based on peer-reviewed color psychology research:
   - **Blue/Green hues** → calming/positive → Good  
-  - **High lightness / pastels** → generally positive → Good  
-  - **Red hues / dark colors** → arousal/negative → Bad  
-  - **Grays / low saturation** → neutral → Medium  
+  - **High lightness / pastels** → generally positive or Good  
+  - **Red hues / dark colors** → arousal/negative or Bad  
+  - **Grays / low saturation** → neutral or Medium  
 
 **Citations for labeling logic:**  
 - Ou, L.-C., et al., 2004 — *A study of color emotion and preference*  
