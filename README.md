@@ -3,7 +3,7 @@
 ## Project Overview
 ColorMood Predictor is a research-backed machine learning project that predicts the emotional impact of colors as **Good, Medium, or Bad**. Users can input colors via RGB or HEX values, and the model interprets their emotional effect based on well-established color psychology principles. This project demonstrates end-to-end ML workflow including dataset creation, feature engineering, classification, and interactive deployment via Streamlit.
 
-## Motivation
+## *Idealogy*
 Colors profoundly impact human emotions and decision-making in branding, web design, and user experience. This project bridges psychology and machine learning, enabling designers and businesses to make informed color choices for websites and applications.
 
 ## Dataset
@@ -14,17 +14,17 @@ Colors profoundly impact human emotions and decision-making in branding, web des
   - H, S, L: Hue, Saturation, Lightness derived from RGB
   - Brightness: Perceived brightness from RGB
   - Target: Emotional impact class (Good, Medium, Bad)  
-- **Missing Values:** Approximately 5% randomly introduced per RGB channel for preprocessing demonstration  
+  
 - **Labeling Justification:** Based on peer-reviewed color psychology research:
-  - **Blue/Green hues** → calming/positive → Good  
-  - **High lightness / pastels** → generally positive or Good  
-  - **Red hues / dark colors** → arousal/negative or Bad  
-  - **Grays / low saturation** → neutral or Medium  
+  - **Blue/Green hues**   calming/positive → Good  
+  - **High lightness / pastels**   generally positive or Good  
+  - **Red hues / dark colors**  arousal/negative or Bad  
+  - **Grays / low saturation**   neutral or Medium  
 
 **Citations for labeling logic:**  
-- Ou, L.-C., et al., 2004 — *A study of color emotion and preference*  
-- Elliot, A. J., & Maier, M. A., 2012 — *Color Psychology: Effects of Perceivable Color on Human Behavior*  
-- Hemphill, L., 1996 — *Adults’ color–emotion associations*
+:::Ou, L.-C., et al., 2004 : A study of color emotion and preference
+:::Elliot, A. J., & Maier, M. A., 2012 : Color Psychology: Effects of Perceivable Color on Human Behavior
+:::Hemphill, L., 1996 —: Adults’ color–emotion associations
 
 ## ML Pipeline
 1. **Data Preprocessing**  
